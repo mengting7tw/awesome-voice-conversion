@@ -274,6 +274,8 @@ ZeroSpeech Challenge [[Home]](https://link.zhihu.com/?target=https%3A//zerospeec
 
 - **Attention is Not Only a Weight: Analyzing Transformers with Vector Norms**(2020), Goro Kobayashi et al. [[Paper]](https://arxiv.org/pdf/2004.10102)
 
+- **Speak Like a Dog: Human to Non-human creature Voice Conversion**(2022), Kohei Suzuki et al. [[Paper]](https://arxiv.org/abs/2206.04780)
+
 
 ## Contact Me
 If you have any questions, Contact Me ，thanks
